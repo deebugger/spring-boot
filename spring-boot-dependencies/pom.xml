@@ -93,7 +93,7 @@
 		<httpclient.version>4.5.3</httpclient.version>
 		<httpcore.version>4.4.6</httpcore.version>
 		<infinispan.version>8.2.6.Final</infinispan.version>
-		<influxdb-java.version>2.6</influxdb-java.version>
+		<influxdb-java.version>2.23</influxdb-java.version>
 		<jackson.version>2.9.0.pr3</jackson.version>
 		<janino.version>3.0.7</janino.version>
 		<javassist.version>3.21.0-GA</javassist.version> <!-- Same as Hibernate -->
@@ -108,7 +108,7 @@
 		<jboss-transaction-spi.version>7.6.0.Final</jboss-transaction-spi.version>
 		<jdom2.version>2.0.6</jdom2.version>
 		<jedis.version>2.9.0</jedis.version>
-		<jersey.version>2.25.1</jersey.version>
+		<jersey.version>2.46</jersey.version>
 		<jest.version>5.3.2</jest.version>
 		<jetty.version>9.4.6.v20170531</jetty.version>
 		<jetty-jsp.version>2.2.0.v201112011158</jetty-jsp.version>
